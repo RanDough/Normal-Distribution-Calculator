@@ -25,7 +25,7 @@ python ND.py
 - Python 3.6+
 - numpy
 - matplotlib
-- tkinter
+- tkinter (normally pre-packaged with standard Python)
 - scipy
 
 ## License
