@@ -1,3 +1,7 @@
+# Normal Distribution Calculator
+# Copyright (c) 2026 Saran Kumar
+# Licensed under the MIT License. See LICENSE file in the project root.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg 
